@@ -28,7 +28,6 @@ datashape==0.5.2
 decorator==4.0.10
 dill==0.2.5
 docutils==0.12
-dynd==0.7.3.dev1
 et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==2.0.6
@@ -48,10 +47,6 @@ jdcal==1.2
 jedi==0.9.0
 Jinja2==2.8
 jsonschema==2.5.1
-jupyter==1.0.0
-jupyter-client==4.4.0
-jupyter-console==5.0.0
-jupyter-core==4.2.0
 lazy-object-proxy==1.2.1
 llvmlite==0.13.0
 locket==0.2.0
