@@ -114,15 +114,10 @@ six==1.10.0
 snowballstemmer==1.2.1
 sockjs-tornado==1.0.3
 Sphinx==1.4.6
-tables==3.2.3.1
 terminado==0.6
 toolz==0.8.0
 tornado==4.4.1
 traitlets==4.3.0
-tweepy==3.3.0
-twitter==1.17.1
-TwitterAPI==2.4.2
-twython==3.4.0
 unicodecsv==0.14.1
 wcwidth==0.1.7
 Werkzeug==0.11.11
