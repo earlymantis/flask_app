@@ -107,7 +107,6 @@ requests==2.11.1
 requests-oauthlib==0.7.0
 responses==0.5.1
 rope-py3k==0.9.4.post1
-ruamel-yaml===-VERSION
 simplegeneric==0.8.1
 simplejson==3.10.0
 singledispatch==3.4.0.3
